@@ -6,4 +6,4 @@ The website will consist of a main index page which will have links to a few rec
 
 But it’s important to keep in mind that this project is just to build your HTML chops; we will revisit this project in the future to style it up with CSS.
 
-I want to include the following: Multiple header sizes, links withing pages, lists of steps, lsits of ingredients, etc. 
+I want to include the following: Multiple header sizes, links withing pages, lists of steps, lists of ingredients, etc. g
